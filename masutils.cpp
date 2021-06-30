@@ -200,5 +200,6 @@ int main() {
    runTest(testCopyMas,"testCopyMas");
 
    runTest(testCompareMas,"testCompareMas");
+   runTest(testSkoFromMas,"testSkoFromMas");
 }
 
